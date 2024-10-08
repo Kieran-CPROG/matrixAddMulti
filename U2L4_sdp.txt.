@@ -1,0 +1,5 @@
+1. That each items in m1 is added to the same item in the same spot in m2.
+2. A’s n must equal B’s m
+3.Result is A’s m x B’s n
+4.The outer loop would be A heights and the inner loop would be B width
+5.modulo 
